@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,90437,t=>{"use strict";var n=t.i(74080);function o(){return n.default.preconnect("https://fonts.googleapis.cn"),n.default.preconnect("https://fonts.gstatic.cn"),null}t.s(["FontPreload",()=>o])}]);
